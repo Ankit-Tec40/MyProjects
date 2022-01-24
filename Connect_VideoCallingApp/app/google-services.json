@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "806302593537",
+    "project_id": "connect-a84c0",
+    "storage_bucket": "connect-a84c0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:806302593537:android:55eb7d6ce93d7e01de4600",
+        "android_client_info": {
+          "package_name": "com.tecwec.connect"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "806302593537-jsm0b86fn0hrfr9r0b01bg8bmkvlvnj5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOesifp5OZyWf1X3Fn1Ejte6Ak4mkXG3c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "806302593537-jsm0b86fn0hrfr9r0b01bg8bmkvlvnj5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

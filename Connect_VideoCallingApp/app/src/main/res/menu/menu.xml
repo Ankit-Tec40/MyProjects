@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:icon="@drawable/home_icon"
+        android:title="Home" />
+    <item
+        android:icon="@drawable/history_icon"
+        android:title="History" />
+    <item
+        android:icon="@drawable/settings_icon"
+        android:title="Settings" />
+    <item
+        android:icon="@drawable/sign_out_icon"
+        android:title="Log out" />
+</menu>
