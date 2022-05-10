@@ -1,2 +1,10 @@
-hello
-![getWeather1](https://user-images.githubusercontent.com/78019187/167711084-770608e1-ba8c-47ab-bd1a-f9901b5f2ad6.png)
+# Weather app (GetWeather)
+
+This Is an Weather app designed using Kotlin, volly library and picasso Library.
+This app simply fetch weather data from weather api and show in to the app
+
+## Screenshots
+![getWeather1](https://github.com/Ankit-Tec40/MyProjects/blob/master/Screenshots/getWeather1.png)
+![getWeather1](https://github.com/Ankit-Tec40/MyProjects/blob/master/Screenshots/getWeather2.png)
+![getWeather1](https://github.com/Ankit-Tec40/MyProjects/blob/master/Screenshots/getWeather3.png)
+
